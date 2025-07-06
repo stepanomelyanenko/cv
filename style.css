@@ -43,6 +43,8 @@ body {
             justify-content: center;
             color: #0077b6;
             font-size: 14px;
+            object-fit: cover;
+
         }
         h1 {
             margin: 0;
