@@ -26,7 +26,7 @@ body {
 
 .header-card {
     grid-column: 1 / -1;
-    background: #FF8C00; /* Оранжевый вместо синего */
+    background: #0077b6; /* Оранжевый вместо синего */
     color: white;
     padding: 30px;
     border-radius: 10px;
@@ -71,16 +71,16 @@ h1 {
 }
 
 h2 {
-    color: #FF8C00; /* Оранжевый вместо синего */
+    color: #0077b6; /* Оранжевый вместо синего */
     margin-top: 0;
     font-size: 20px;
-    border-bottom: 2px solid #FFD700; /* Жёлтый вместо голубого */
+    border-bottom: 2px solid #00b4d8; /* Жёлтый вместо голубого */
     padding-bottom: 5px;
     display: inline-block;
 }
 
 h3 {
-    color: #FFA500; /* Оранжевый вместо голубого */
+    color: #90e0ef; /* Оранжевый вместо голубого */
     margin-bottom: 5px;
     font-size: 16px;
 }
@@ -108,10 +108,10 @@ h3 {
     font-style: italic;
     margin-bottom: 10px;
     font-weight: bold;
-    color: #FF8C00; /* Оранжевый вместо синего */
+    color: #0077b6; /* Оранжевый вместо синего */
     font-size: 16px;
     padding: 5px 0;
-    border-bottom: 1px solid #FFD700; /* Жёлтый вместо голубого */
+    border-bottom: 1px solid #00b4d8; /* Жёлтый вместо голубого */
 }
 
 ul {
@@ -129,7 +129,7 @@ li {
 }
 
 .skill {
-    background: #FFFACD; /* Светло-жёлтый вместо голубого */
+    background: #e0f7fa; /* Светло-жёлтый вместо голубого */
     padding: 5px 10px;
     border-radius: 15px;
     font-size: 14px;
@@ -141,7 +141,7 @@ li {
 
 .salary {
     font-weight: bold;
-    color: #FF8C00; /* Оранжевый вместо синего */
+    color: #0077b6; /* Оранжевый вместо синего */
 }
 
 .course-name {
@@ -159,7 +159,7 @@ li {
 }
 
 .info-block h3 {
-    color: #FF8C00; /* Оранжевый вместо синего */
+    color: #0077b6; /* Оранжевый вместо синего */
     margin-bottom: 10px;
     font-size: 18px;
 }
