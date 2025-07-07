@@ -159,3 +159,37 @@ body {
             gap: 20px;
             grid-column: 1 / -1;
         }
+.skills-section {
+    margin-top: 15px;
+}
+
+.skills-section h3 {
+    color: #0077b6;
+    font-size: 16px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid #90e0ef;
+    padding-bottom: 3px;
+}
+
+.hard-skills .skill {
+    background: #e0f7fa;
+    border: 1px solid #00b4d8;
+}
+
+.soft-skills .skill {
+    background: #f0f7fa;
+    border: 1px solid #0077b6;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.skill {
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 14px;
+}
